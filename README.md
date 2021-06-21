@@ -120,7 +120,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
  <sub><b>Marcon Willian</b></sub></a> <a href="https://marconwillian.dev/" title="Marcon Willian">🚀</a>
  <br />
 
-[![Twitter Badge](https://img.shields.io/badge/-@marconwillian-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/marconwillian)](https://twitter.com/marconwillian) [![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/marconwillian/) 
+[![Twitter Badge](https://img.shields.io/badge/-@marconwillian-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/marconwillian)](https://twitter.com/marconwillian) [![Linkedin Badge](https://img.shields.io/badge/-Marcon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marconwillian/)](https://www.linkedin.com/in/marconwillian/) 
 
 ---
 
