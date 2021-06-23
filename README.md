@@ -98,7 +98,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 -   Protótipo:  **[Figma](https://www.figma.com/)**  →  **[Protótipo (Letmeask)](https://www.figma.com/file/u0BQK8rCf2KgzcukdRRCWh/Letmeask)**
 -   Editor:  **[Visual Studio Code](https://code.visualstudio.com/)**  → Extensions:  **[SQLite](https://marketplace.visualstudio.com/items?itemName=alexcvzz.vscode-sqlite)**
 -   Markdown:  **[StackEdit](https://stackedit.io/)**,  **[Markdown Emoji](https://gist.github.com/rxaviers/7360908)**
--   Commit Conventional:  **[Commitlint](https://github.com/conventional-changelog/commitlint)**
 
 
 ---
