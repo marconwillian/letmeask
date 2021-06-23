@@ -2,6 +2,7 @@
 import '../styles/room.scss'
 import logoImg from '../assets/images/logo.svg';
 import { Button } from '../components/Button';
+import { RoomCode } from '../components/RoomCode';
 
 export function Room() {
     return (
@@ -9,7 +10,7 @@ export function Room() {
             <header>
                 <div className="content">
                     <img src={logoImg} alt="Letmeask" />
-                    <div>codigo</div>
+                    <RoomCode />
                 </div>
             </header>
 
